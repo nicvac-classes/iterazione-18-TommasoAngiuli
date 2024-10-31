@@ -2,6 +2,7 @@
 using namespace std;
 int main() 
 {
+    //variabili
     int i;
     double livello, somma, media;
     somma = 0;
